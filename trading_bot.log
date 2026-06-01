@@ -1,0 +1,6 @@
+2026-06-01 12:45:48,794 - INFO - Order request received
+2026-06-01 12:45:59,655 - ERROR - HTTPSConnectionPool(host='testnet.binancefuture.com', port=443): Read timed out. (read timeout=10)
+2026-06-01 13:35:33,604 - INFO - Order request received
+2026-06-01 13:35:34,225 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2026-06-01 13:36:02,354 - INFO - Order request received
+2026-06-01 13:36:03,011 - ERROR - APIError(code=-2015): Invalid API-key, IP, or permissions for action
